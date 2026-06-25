@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>trava</repo>
-  <version>v1.0.4</version>
+  <version>v1.0.5</version>
   <next number="1" owner="Fistachka" repo="trava2"/>
   <readme>
     <ru>01c0c46cf509841c5a8b6ccca3e8c6e3d48fc1f1b2e3cc2df883b86a8ae31ccd</ru>
@@ -12,25 +12,25 @@
   <exercise number="1">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>124</bpm>
-    <lowestNote>7</lowestNote>
+    <bpm>120</bpm>
+    <lowestNote>84</lowestNote>
     <tonalities>10</tonalities>
     <video name="1t.mp4" size="1416600" type="video/mp4" volume="0.5">0b38e65365e38458265d099cc47e90f914c4d07dfff1906da1413e01dc6fcae3</video>
     <notes>
-      <note number="1" values="58" ticks="180" durationTicks="26" ppq="96" velocity="0.764"/>
-      <note number="2" values="58" ticks="229" durationTicks="48" ppq="96" velocity="0.772"/>
-      <note number="3" values="48" ticks="277" durationTicks="47" ppq="96" velocity="0.827"/>
-      <note number="4" values="38" ticks="325" durationTicks="95" ppq="96" velocity="0.772"/>
-      <note number="5" values="28" ticks="430" durationTicks="34" ppq="96" velocity="0.827"/>
-      <note number="6" values="38" ticks="474" durationTicks="24" ppq="96" velocity="0.827"/>
-      <note number="7" values="18" ticks="520" durationTicks="95" ppq="96" velocity="0.827"/>
-      <note number="8" values="18" ticks="672" durationTicks="95" ppq="96" velocity="0.827"/>
+      <note number="1" values="85" ticks="621" durationTicks="41" ppq="96" velocity="0.764"/>
+      <note number="2" values="3" ticks="668" durationTicks="29" ppq="96" velocity="0.772"/>
+      <note number="3" values="3" ticks="717" durationTicks="20" ppq="96" velocity="0.827"/>
+      <note number="4" values="4" ticks="740" durationTicks="23" ppq="96" velocity="0.772"/>
+      <note number="5" values="3" ticks="766" durationTicks="18" ppq="96" velocity="0.827"/>
+      <note number="6" values="2" ticks="799" durationTicks="45" ppq="96" velocity="0.827"/>
+      <note number="7" values="1" ticks="843" durationTicks="26" ppq="96" velocity="0.827"/>
+      <note number="8" values="1" ticks="879" durationTicks="50" ppq="96" velocity="0.827"/>
     </notes>
   </exercise>
   <exercise number="2">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>162</bpm>
+    <bpm>120</bpm>
     <lowestNote>7</lowestNote>
     <tonalities>10</tonalities>
     <video name="2.mp4" size="1552802" type="video/mp4" volume="0.5">38533dcf93dfa6eb25e57b24e1096555516cde9de2f9a843f8e11286e9cd882c</video>
@@ -48,7 +48,7 @@
   <exercise number="3">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>162</bpm>
+    <bpm>120</bpm>
     <lowestNote>7</lowestNote>
     <tonalities>10</tonalities>
     <video name="3.mp4" size="2132448" type="video/mp4" volume="0.5">f431f6ecaade6ab68f8c86bd13cd52d48f97a78913dda7b5f054f293e7dc53e1</video>
@@ -68,7 +68,7 @@
   <exercise number="4">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>162</bpm>
+    <bpm>120</bpm>
     <lowestNote>7</lowestNote>
     <tonalities>10</tonalities>
     <video name="4.mp4" size="1532942" type="video/mp4" volume="0.5">cec2a4e330efa082bd8ac6c093b0bf6612cbfc478162c59c0c46cdb2ae22bd1d</video>
@@ -86,7 +86,7 @@
   <exercise number="5">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>162</bpm>
+    <bpm>120</bpm>
     <lowestNote>7</lowestNote>
     <tonalities>10</tonalities>
     <video name="5.mp4" size="1277160" type="video/mp4" volume="0.5">bd674ef840c357420d3315d03c8736cc4b306d366dcd24a52104c99958e9c475</video>
@@ -104,7 +104,7 @@
   <exercise number="6">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>162</bpm>
+    <bpm>120</bpm>
     <lowestNote>7</lowestNote>
     <tonalities>10</tonalities>
     <video name="6.mp4" size="2418886" type="video/mp4" volume="0.5">bbaf22c479fd0c3c2697cc4b909538b4f2dd7ab8bd96ba8ed6cdb34f39fbdafe</video>
@@ -124,7 +124,7 @@
   <exercise number="7">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>162</bpm>
+    <bpm>120</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>10</tonalities>
     <video name="7.mp4" size="1410670" type="video/mp4" volume="0.5">840e669a2f3d0bda377f6e5f7189da6698b7c66687ae14c4a8290c43f6e69d3f</video>
@@ -142,7 +142,7 @@
   <exercise number="8">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>162</bpm>
+    <bpm>120</bpm>
     <lowestNote>7</lowestNote>
     <tonalities>10</tonalities>
     <video name="8.mp4" size="1252020" type="video/mp4" volume="0.5">d23af09d23642169b3d17f5b56f0d27c5e83d1a4edc91c8c18253774961bf8cb</video>
@@ -160,7 +160,7 @@
   <exercise number="9">
     <scale>chromaticminor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>162</bpm>
+    <bpm>120</bpm>
     <lowestNote>7</lowestNote>
     <tonalities>10</tonalities>
     <video name="9.mp4" size="1847560" type="video/mp4" volume="0.5">a775470e848917a8926418310e7bf9046a1394b9f05417bb71cb82aa79341b47</video>
@@ -180,7 +180,7 @@
   <exercise number="10">
     <scale>chromaticminor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>162</bpm>
+    <bpm>120</bpm>
     <lowestNote>7</lowestNote>
     <tonalities>10</tonalities>
     <video name="10.mp4" size="1594338" type="video/mp4" volume="0.5">07532bc53126e919cbf7dd166acc57ac2ebb70d6001dc2829e34b23528f6d142</video>
@@ -198,7 +198,7 @@
   <exercise number="11">
     <scale>chromaticminor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>162</bpm>
+    <bpm>120</bpm>
     <lowestNote>7</lowestNote>
     <tonalities>10</tonalities>
     <video name="11.mp4" size="1210429" type="video/mp4" volume="0.5">ff8b151ac02f3f270470ea97877f2b8faa66d8374d54b8300a3d6b34739c8110</video>
@@ -216,7 +216,7 @@
   <exercise number="12">
     <scale>chromaticminor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>162</bpm>
+    <bpm>120</bpm>
     <lowestNote>7</lowestNote>
     <tonalities>10</tonalities>
     <video name="12.mp4" size="2188846" type="video/mp4" volume="0.5">325e85b5302eba63da4469fd016d89c3c32120b8ec36ca75a06f7e21e1086251</video>
