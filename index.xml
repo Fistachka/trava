@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>trava</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="Fistachka" repo="trava2"/>
   <readme>
     <ru>01c0c46cf509841c5a8b6ccca3e8c6e3d48fc1f1b2e3cc2df883b86a8ae31ccd</ru>
@@ -69,18 +69,18 @@
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
     <bpm>120</bpm>
-    <lowestNote>7</lowestNote>
+    <lowestNote>84</lowestNote>
     <tonalities>10</tonalities>
     <video name="4.mp4" size="1532942" type="video/mp4" volume="0.5">cec2a4e330efa082bd8ac6c093b0bf6612cbfc478162c59c0c46cdb2ae22bd1d</video>
     <notes>
-      <note number="1" values="7" ticks="195" durationTicks="37" ppq="96" velocity="0.764"/>
-      <note number="2" values="18" ticks="237" durationTicks="32" ppq="96" velocity="0.772"/>
-      <note number="3" values="28" ticks="282" durationTicks="42" ppq="96" velocity="0.827"/>
-      <note number="4" values="7" ticks="331" durationTicks="49" ppq="96" velocity="0.772"/>
-      <note number="5" values="28" ticks="410" durationTicks="39" ppq="96" velocity="0.827"/>
-      <note number="6" values="48" ticks="455" durationTicks="24" ppq="96" velocity="0.827"/>
-      <note number="7" values="68" ticks="502" durationTicks="66" ppq="96" velocity="0.827"/>
-      <note number="8" values="58" ticks="574" durationTicks="108" ppq="96" velocity="0.827"/>
+      <note number="1" values="84" ticks="159" durationTicks="41" ppq="96" velocity="0.764"/>
+      <note number="2" values="3" ticks="206" durationTicks="51" ppq="96" velocity="0.772"/>
+      <note number="3" values="2" ticks="274" durationTicks="30" ppq="96" velocity="0.827"/>
+      <note number="4" values="4" ticks="310" durationTicks="41" ppq="96" velocity="0.772"/>
+      <note number="5" values="3" ticks="353" durationTicks="21" ppq="96" velocity="0.795"/>
+      <note number="6" values="3" ticks="378" durationTicks="42" ppq="96" velocity="0.795"/>
+      <note number="7" values="2" ticks="420" durationTicks="21" ppq="96" velocity="0.795"/>
+      <note number="8" values="2" ticks="458" durationTicks="96" ppq="96" velocity="0.795"/>
     </notes>
   </exercise>
   <exercise number="5">
