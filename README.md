@@ -3,7 +3,7 @@
 "Трава у дома"  ВИА "Земляне" 1983 г. 1 часть
 ![2](https://github.com/user-attachments/assets/378e3d29-e593-4599-8042-f1f181438a43)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/I22BfF4EnQc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/M4EtDKuSyMk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ziyGewlDDz8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Земля в иллюминаторе, земля в иллюминаторе,
@@ -25,7 +25,7 @@ stolbitsa.com/fistachka/pozvoni3<br><br>
 "Trava u doma" (or "Grass Near the House"), performed by the band "Zemlyane" (1983) 1 st verse
 ![2](https://github.com/user-attachments/assets/378e3d29-e593-4599-8042-f1f181438a43)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/WNcJGlaZnWA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/m3mvmGShARg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KADNdndVna8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Zemlya v illyuminatore, zemlya v illyuminatore,
